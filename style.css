@@ -8,6 +8,10 @@
 .user_rating_card{
     padding: 20px;
     border-radius: 5px;
+}
+.image{
+    border-radius: 80%;
+    
 } 
  /*  */
 .free_trial,
