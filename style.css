@@ -6,8 +6,12 @@
   
 }
 .user_rating_card{
-    padding: 20px;
+    padding: 50px;
     border-radius: 5px;
+}
+
+.rated{
+    color: #f63854;
 }
 .image{
     border-radius: 80%;
