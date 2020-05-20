@@ -1,11 +1,20 @@
+
+.underline{
+    border-top: 3px solid #f63854;
+    width: 200px;
+    margin: 10px auto;
+
+}
 .testimonials{
     padding-top: 20px;
-}    
-.user_ratings{
+}  
+.column_style,  
+.user_ratings
+{
     padding: 20px 50px;
   
 }
-.user_rating_card{
+.card_style{
     padding: 50px;
     border-radius: 5px;
 }
@@ -13,6 +22,7 @@
 .rated{
     color: #f63854;
 }
+
 .image{
     border-radius: 80%;
     
@@ -23,7 +33,7 @@
 .app-footer{
     padding:50px;
 }
-.user_rating_card>img{
+.card_style>img{
     margin: 10px auto;
 }
 input{
@@ -39,6 +49,6 @@ input{
 .contact>p{
     padding: 5px 0;
 }
-hr{
+.footer-line{
   border-top: 2px solid rgb(201, 196, 196);
 }
